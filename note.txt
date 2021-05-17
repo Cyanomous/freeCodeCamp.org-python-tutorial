@@ -1,0 +1,5 @@
+The video will user: print("some text " + a_variable + "some more text.")
+
+However I will be using f strings which is basically a better version of what the tutorial is using.
+
+Have a good day and don't forget to star the repo!🙂
